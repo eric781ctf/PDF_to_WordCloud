@@ -8,7 +8,7 @@
 ## How does it work:question:
   - Install the module you need!
   - Prepare a Chinese PDF file.
-  - Download the [![text](https://raw.githubusercontent.com/tomlinNTUB/Python/master/%E4%B8%AD%E6%96%87%E5%88%86%E8%A9%9E/%E5%81%9C%E7%94%A8%E8%A9%9E.txt), which is used to remove the words we don't need.]
+  - Download the [text](https://raw.githubusercontent.com/tomlinNTUB/Python/master/%E4%B8%AD%E6%96%87%E5%88%86%E8%A9%9E/%E5%81%9C%E7%94%A8%E8%A9%9E.txt), which is used to remove the words we don't need.
   - Create a .xlsx file.
 ## Personalize at `WordCloud`
   :one:Choose the picture and the color you like!
